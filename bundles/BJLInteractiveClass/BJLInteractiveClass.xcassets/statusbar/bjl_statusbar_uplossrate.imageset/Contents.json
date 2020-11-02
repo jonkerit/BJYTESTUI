@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "bjl_statusbar_uplossrate.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "bjl_statusbar_uplossrate@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "bjl_statusbar_uplossrate@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

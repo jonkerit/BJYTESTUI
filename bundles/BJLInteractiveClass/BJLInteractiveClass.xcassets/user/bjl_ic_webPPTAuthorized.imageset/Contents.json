@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "bjl_ic_webPPTAuthorized.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "bjl_ic_webPPTAuthorized@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "bjl_ic_webPPTAuthorized@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
